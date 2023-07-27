@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fersaling
-- 👀 I’m interested in languages
-- 🌱 I’m currently learning Node.js
+- 👀 I’m interested in development
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on (IT) world
 - 📫 How to reach me https://www.fernandosaling.com
 
